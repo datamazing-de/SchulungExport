@@ -1,5 +1,5 @@
 {
-    "name"              : "SchulungExport,
+    "name"              : "SchulungExport",
     "version"           : "1.0.0",
     "webhookUrl"        : "https://t5701wqf75ra.plentymarkets-cloud01.com/rest/service/tickets",
     "pluginIcon"        : "icon_plugin_xs.png",
