@@ -1,6 +1,6 @@
 {
     "name"              : "SchulungExport",
-    "version"           : "1.0.2",
+    "version"           : "1.0.3",
     "webhookUrl"        : "https://t5701wqf75ra.plentymarkets-cloud01.com/rest/service/tickets",
     "pluginIcon"        : "icon_plugin_xs.png",
     "description"       : "Schulung zu Exportmöglichkeiten mit plentymarkets.",
